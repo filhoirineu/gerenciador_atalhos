@@ -1,0 +1,5 @@
+D:\OneDrive\Estudos\C#\gerenciador_atalhos\gerenciados_atalhos\bin\Debug\netcoreapp3.1\publish\Paranoá - SmartClient.exe
+D:\OneDrive\Estudos\C#\gerenciador_atalhos\gerenciados_atalhos\bin\Debug\netcoreapp3.1\publish\Paranoá - SmartClient.dll
+D:\OneDrive\Estudos\C#\gerenciador_atalhos\gerenciados_atalhos\bin\Debug\netcoreapp3.1\publish\Paranoá - SmartClient.deps.json
+D:\OneDrive\Estudos\C#\gerenciador_atalhos\gerenciados_atalhos\bin\Debug\netcoreapp3.1\publish\Paranoá - SmartClient.runtimeconfig.json
+D:\OneDrive\Estudos\C#\gerenciador_atalhos\gerenciados_atalhos\bin\Debug\netcoreapp3.1\publish\Paranoá - SmartClient.pdb

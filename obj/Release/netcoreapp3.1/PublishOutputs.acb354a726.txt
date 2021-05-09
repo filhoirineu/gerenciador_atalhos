@@ -1,0 +1,5 @@
+D:\OneDrive\Estudos\C#\gerenciador_atalhos\gerenciados_atalhos\bin\publish\Atalhos TOTVS-Protheus.exe
+D:\OneDrive\Estudos\C#\gerenciador_atalhos\gerenciados_atalhos\bin\publish\Atalhos TOTVS-Protheus.dll
+D:\OneDrive\Estudos\C#\gerenciador_atalhos\gerenciados_atalhos\bin\publish\Atalhos TOTVS-Protheus.deps.json
+D:\OneDrive\Estudos\C#\gerenciador_atalhos\gerenciados_atalhos\bin\publish\Atalhos TOTVS-Protheus.runtimeconfig.json
+D:\OneDrive\Estudos\C#\gerenciador_atalhos\gerenciados_atalhos\bin\publish\Atalhos TOTVS-Protheus.pdb

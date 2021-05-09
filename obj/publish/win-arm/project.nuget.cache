@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZeHNaBWEnjmtoyMsaskcGGnq4/fxkDCq1AwBY3f/aoBaEkmNMhvB5TGFySdKYUEEC8hCPEO9WQDynnga2TvNLA==",
+  "success": true,
+  "projectFilePath": "D:\\OneDrive\\Estudos\\C#\\gerenciador_atalhos\\gerenciados_atalhos\\gerenciados_atalhos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iacar\\.nuget\\packages\\microsoft.netcore.app.runtime.win-arm\\3.1.14\\microsoft.netcore.app.runtime.win-arm.3.1.14.nupkg.sha512",
+    "C:\\Users\\iacar\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-arm\\3.1.14\\microsoft.aspnetcore.app.runtime.win-arm.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}
