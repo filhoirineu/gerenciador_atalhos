@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "fXO7NVuXTZvJTzMfslZI+hJAy5qkTzmKhzSqHK4Wx231AEwE9Cyuy3Z+4oiuNiH7paFBmRO02rUF6wOTLTRxzw==",
+  "dgSpecHash": "kcorTlqNKZTSFREydgale251u29jOywJM+xkrT6bzwA+gG/QQjSOM+kat0eyvHPFSg71y/AQsi4VBOpTjAkjZg==",
   "success": true,
-  "projectFilePath": "D:\\OneDrive\\Estudos\\C#\\gerenciador_atalhos\\gerenciados_atalhos\\gerenciados_atalhos.csproj",
+  "projectFilePath": "D:\\OneDrive\\Estudos\\C#\\gerenciador_atalhos\\gerenciados_atalhos.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\pc-irineu.filho\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.14\\microsoft.netcore.app.runtime.win-x86.3.1.14.nupkg.sha512",
-    "C:\\Users\\pc-irineu.filho\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.14\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.14.nupkg.sha512",
-    "C:\\Users\\pc-irineu.filho\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.14\\microsoft.aspnetcore.app.runtime.win-x86.3.1.14.nupkg.sha512"
+    "C:\\Users\\iacar\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.14\\microsoft.netcore.app.runtime.win-x86.3.1.14.nupkg.sha512",
+    "C:\\Users\\iacar\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.14\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.14.nupkg.sha512",
+    "C:\\Users\\iacar\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.14\\microsoft.aspnetcore.app.runtime.win-x86.3.1.14.nupkg.sha512"
   ],
   "logs": []
 }

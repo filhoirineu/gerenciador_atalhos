@@ -21,6 +21,8 @@ namespace gerenciados_atalhos
             base.Dispose(disposing);
         }
 
+
+
         #region Windows Form Designer generated code
 
         /// <summary>
@@ -60,7 +62,7 @@ namespace gerenciados_atalhos
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Verdana", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label5.Location = new System.Drawing.Point(12, 237);
+            this.label5.Location = new System.Drawing.Point(12, 232);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(211, 16);
             this.label5.TabIndex = 8;
@@ -70,18 +72,18 @@ namespace gerenciados_atalhos
             // 
             this.cBoxAmbiente.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cBoxAmbiente.Font = new System.Drawing.Font("Verdana", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.cBoxAmbiente.Location = new System.Drawing.Point(12, 329);
+            this.cBoxAmbiente.Location = new System.Drawing.Point(12, 323);
             this.cBoxAmbiente.Name = "cBoxAmbiente";
-            this.cBoxAmbiente.Size = new System.Drawing.Size(360, 26);
+            this.cBoxAmbiente.Size = new System.Drawing.Size(364, 26);
             this.cBoxAmbiente.TabIndex = 9;
             // 
             // cBoxConexao
             // 
             this.cBoxConexao.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cBoxConexao.Font = new System.Drawing.Font("Verdana", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.cBoxConexao.Location = new System.Drawing.Point(12, 256);
+            this.cBoxConexao.Location = new System.Drawing.Point(12, 251);
             this.cBoxConexao.Name = "cBoxConexao";
-            this.cBoxConexao.Size = new System.Drawing.Size(360, 26);
+            this.cBoxConexao.Size = new System.Drawing.Size(364, 26);
             this.cBoxConexao.TabIndex = 7;
             this.cBoxConexao.SelectedIndexChanged += new System.EventHandler(this.cBoxConexao_SelectedIndexChanged);
             // 
@@ -89,7 +91,7 @@ namespace gerenciados_atalhos
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Verdana", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label6.Location = new System.Drawing.Point(12, 310);
+            this.label6.Location = new System.Drawing.Point(12, 304);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(188, 16);
             this.label6.TabIndex = 10;
@@ -99,7 +101,7 @@ namespace gerenciados_atalhos
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Verdana", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label4.Location = new System.Drawing.Point(12, 164);
+            this.label4.Location = new System.Drawing.Point(8, 160);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(152, 16);
             this.label4.TabIndex = 6;
@@ -110,9 +112,9 @@ namespace gerenciados_atalhos
             this.btnExecutar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(200)))), ((int)(((byte)(255)))), ((int)(((byte)(200)))));
             this.btnExecutar.Font = new System.Drawing.Font("Verdana", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnExecutar.ForeColor = System.Drawing.Color.Black;
-            this.btnExecutar.Location = new System.Drawing.Point(12, 384);
+            this.btnExecutar.Location = new System.Drawing.Point(12, 378);
             this.btnExecutar.Name = "btnExecutar";
-            this.btnExecutar.Size = new System.Drawing.Size(360, 35);
+            this.btnExecutar.Size = new System.Drawing.Size(364, 35);
             this.btnExecutar.TabIndex = 11;
             this.btnExecutar.Text = "EXECUTAR";
             this.btnExecutar.UseVisualStyleBackColor = false;
@@ -122,18 +124,18 @@ namespace gerenciados_atalhos
             // 
             this.cBoxPrograma.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cBoxPrograma.Font = new System.Drawing.Font("Verdana", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.cBoxPrograma.Location = new System.Drawing.Point(12, 183);
+            this.cBoxPrograma.Location = new System.Drawing.Point(8, 179);
             this.cBoxPrograma.Name = "cBoxPrograma";
-            this.cBoxPrograma.Size = new System.Drawing.Size(360, 26);
+            this.cBoxPrograma.Size = new System.Drawing.Size(368, 26);
             this.cBoxPrograma.TabIndex = 5;
             this.cBoxPrograma.SelectedIndexChanged += new System.EventHandler(this.cBoxPrograma_SelectedIndexChanged);
             // 
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(12, 12);
+            this.pictureBox1.Location = new System.Drawing.Point(8, 16);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(175, 48);
+            this.pictureBox1.Size = new System.Drawing.Size(176, 48);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 12;
             this.pictureBox1.TabStop = false;
@@ -142,7 +144,7 @@ namespace gerenciados_atalhos
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Verdana", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label3.Location = new System.Drawing.Point(12, 91);
+            this.label3.Location = new System.Drawing.Point(12, 88);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(192, 16);
             this.label3.TabIndex = 4;
@@ -152,7 +154,7 @@ namespace gerenciados_atalhos
             // 
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Verdana", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label7.Location = new System.Drawing.Point(180, 422);
+            this.label7.Location = new System.Drawing.Point(184, 424);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(192, 13);
             this.label7.TabIndex = 13;
@@ -168,16 +170,16 @@ namespace gerenciados_atalhos
             "HOMOLOGACAO",
             "VENDAS",
             "TKM-HISTORICO"});
-            this.cBoxTipoAmbiente.Location = new System.Drawing.Point(12, 110);
+            this.cBoxTipoAmbiente.Location = new System.Drawing.Point(8, 107);
             this.cBoxTipoAmbiente.Name = "cBoxTipoAmbiente";
-            this.cBoxTipoAmbiente.Size = new System.Drawing.Size(360, 26);
+            this.cBoxTipoAmbiente.Size = new System.Drawing.Size(368, 26);
             this.cBoxTipoAmbiente.TabIndex = 0;
             this.cBoxTipoAmbiente.SelectedIndexChanged += new System.EventHandler(this.cBoxTipoAmbiente_SelectedIndexChanged);
             // 
             // pictureBox2
             // 
             this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
-            this.pictureBox2.Location = new System.Drawing.Point(197, 12);
+            this.pictureBox2.Location = new System.Drawing.Point(200, 16);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(175, 48);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;

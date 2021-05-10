@@ -9,24 +9,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\pc-irineu.filho\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\iacar\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OneDrive\\Estudos\\C#\\gerenciador_atalhos\\gerenciados_atalhos\\gerenciados_atalhos.csproj",
+      "projectUniqueName": "D:\\OneDrive\\Estudos\\C#\\gerenciador_atalhos\\gerenciados_atalhos.csproj",
       "projectName": "Paranoá - SmartClient",
-      "projectPath": "D:\\OneDrive\\Estudos\\C#\\gerenciador_atalhos\\gerenciados_atalhos\\gerenciados_atalhos.csproj",
-      "packagesPath": "C:\\Users\\pc-irineu.filho\\.nuget\\packages\\",
-      "outputPath": "D:\\OneDrive\\Estudos\\C#\\gerenciador_atalhos\\gerenciados_atalhos\\obj\\publish\\win-x86\\",
+      "projectPath": "D:\\OneDrive\\Estudos\\C#\\gerenciador_atalhos\\gerenciados_atalhos.csproj",
+      "packagesPath": "C:\\Users\\iacar\\.nuget\\packages\\",
+      "outputPath": "D:\\OneDrive\\Estudos\\C#\\gerenciador_atalhos\\obj\\publish\\win-x86\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\pc-irineu.filho\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\iacar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

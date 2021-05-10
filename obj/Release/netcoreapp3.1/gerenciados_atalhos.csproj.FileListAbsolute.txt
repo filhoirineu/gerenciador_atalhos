@@ -14,3 +14,19 @@ D:\OneDrive\Estudos\C#\gerenciador_atalhos\gerenciados_atalhos\bin\Release\netco
 D:\OneDrive\Estudos\C#\gerenciador_atalhos\gerenciados_atalhos\bin\Release\netcoreapp3.1\Paranoá - SmartClient.pdb
 D:\OneDrive\Estudos\C#\gerenciador_atalhos\gerenciados_atalhos\obj\Release\netcoreapp3.1\Paranoá - SmartClient.dll
 D:\OneDrive\Estudos\C#\gerenciador_atalhos\gerenciados_atalhos\obj\Release\netcoreapp3.1\Paranoá - SmartClient.pdb
+D:\OneDrive\Estudos\C#\gerenciador_atalhos\bin\Release\netcoreapp3.1\Paranoá - SmartClient.exe
+D:\OneDrive\Estudos\C#\gerenciador_atalhos\bin\Release\netcoreapp3.1\Paranoá - SmartClient.deps.json
+D:\OneDrive\Estudos\C#\gerenciador_atalhos\bin\Release\netcoreapp3.1\Paranoá - SmartClient.runtimeconfig.json
+D:\OneDrive\Estudos\C#\gerenciador_atalhos\bin\Release\netcoreapp3.1\Paranoá - SmartClient.runtimeconfig.dev.json
+D:\OneDrive\Estudos\C#\gerenciador_atalhos\bin\Release\netcoreapp3.1\Paranoá - SmartClient.dll
+D:\OneDrive\Estudos\C#\gerenciador_atalhos\bin\Release\netcoreapp3.1\Paranoá - SmartClient.pdb
+D:\OneDrive\Estudos\C#\gerenciador_atalhos\obj\Release\netcoreapp3.1\gerenciados_atalhos.csprojAssemblyReference.cache
+D:\OneDrive\Estudos\C#\gerenciador_atalhos\obj\Release\netcoreapp3.1\gerenciados_atalhos.telaPrincipal.resources
+D:\OneDrive\Estudos\C#\gerenciador_atalhos\obj\Release\netcoreapp3.1\gerenciados_atalhos.Properties.Resources.resources
+D:\OneDrive\Estudos\C#\gerenciador_atalhos\obj\Release\netcoreapp3.1\gerenciados_atalhos.csproj.GenerateResource.cache
+D:\OneDrive\Estudos\C#\gerenciador_atalhos\obj\Release\netcoreapp3.1\gerenciados_atalhos.AssemblyInfoInputs.cache
+D:\OneDrive\Estudos\C#\gerenciador_atalhos\obj\Release\netcoreapp3.1\gerenciados_atalhos.AssemblyInfo.cs
+D:\OneDrive\Estudos\C#\gerenciador_atalhos\obj\Release\netcoreapp3.1\gerenciados_atalhos.csproj.CoreCompileInputs.cache
+D:\OneDrive\Estudos\C#\gerenciador_atalhos\obj\Release\netcoreapp3.1\Paranoá - SmartClient.dll
+D:\OneDrive\Estudos\C#\gerenciador_atalhos\obj\Release\netcoreapp3.1\Paranoá - SmartClient.pdb
+D:\OneDrive\Estudos\C#\gerenciador_atalhos\obj\Release\netcoreapp3.1\gerenciados_atalhos.genruntimeconfig.cache

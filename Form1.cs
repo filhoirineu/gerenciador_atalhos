@@ -63,16 +63,13 @@ namespace gerenciados_atalhos
                 }
                 else if (cPrograma == "TELNET")
                 {
-                    cProgExec = "C:\\Windows\\System32\\telnet.exe";
+                    cPrograma = "VTDEBUG";
+                    cAmbiente = "PARANOA";
                 }
 
                 if (cAmbiente == "SPLASH")
                 {
                     cComandos = "-m";
-                }
-                else if (cAmbiente == "TELNET")
-                {
-                    cComandos = "192.168.0.31 24";
                 }
                 else
                 {
@@ -89,6 +86,7 @@ namespace gerenciados_atalhos
                     pProcess.StartInfo.Arguments = cComandos;
                     pProcess.Start();
                     telaPrincipal.ActiveForm.Close();
+
 
                 }
                 else
@@ -118,7 +116,7 @@ namespace gerenciados_atalhos
             {
                 cBoxPrograma.Items.Add("CHAMADOS DE TI");
                 cBoxPrograma.Items.Add("MATRIZ DE VERSATILIDADE");
-                cBoxPrograma.Items.Add("TELNET");
+                cBoxPrograma.Items.Add("VTDEBUG");
             }
 
         }
@@ -142,17 +140,7 @@ namespace gerenciados_atalhos
                 cBoxAmbiente.Enabled = false;
             }
 
-            else if (cBoxPrograma.SelectedItem.ToString() == "TELNET")
-            {
-                cBoxConexao.Items.Add("TELNET");
-                cBoxConexao.SelectedIndex = 0;
-                cBoxConexao.Enabled = false;
-
-                cBoxAmbiente.Items.Add("TELNET");
-                cBoxAmbiente.SelectedIndex = 0;
-                cBoxAmbiente.Enabled = false;
-            }
-            else if (cBoxPrograma.SelectedItem.ToString() == "SIGAADV" || cBoxPrograma.SelectedItem.ToString() == "SIGAMDI")
+            else if (cBoxPrograma.SelectedItem.ToString() == "SIGAADV" || cBoxPrograma.SelectedItem.ToString() == "SIGAMDI" || cBoxPrograma.SelectedItem.ToString() == "VTDEBUG")
             {
 
                 cBoxConexao.Items.Add("TCP");
@@ -171,6 +159,7 @@ namespace gerenciados_atalhos
                     cBoxConexao.Items.Add("SERVICE26");
                     cBoxConexao.Items.Add("SERVICE27");
                     cBoxConexao.Items.Add("SERVICE28");
+                    cBoxConexao.Items.Add("BROKER");
                 }
             }
 
@@ -179,7 +168,10 @@ namespace gerenciados_atalhos
         private void cBoxConexao_SelectedIndexChanged(object sender, System.EventArgs e)
         {
 
+            bool lSplash = true;
+
             cBoxAmbiente.Items.Clear();
+            cBoxAmbiente.Enabled = true;
 
             if (cBoxTipoAmbiente.SelectedItem.ToString() == "PRODUCAO")
             {
@@ -237,6 +229,13 @@ namespace gerenciados_atalhos
                     cBoxAmbiente.Items.Add("ANALISTA_A");
 
                 }
+                else if (cBoxConexao.SelectedItem.ToString() == "BROKER")
+                {
+                    cBoxAmbiente.Items.Add("PARANOA");
+                    cBoxAmbiente.Enabled = false;
+                    lSplash = false;
+
+                }
 
             }
             else if (cBoxTipoAmbiente.SelectedItem.ToString() == "DESENVOLVIMENTO")
@@ -256,7 +255,10 @@ namespace gerenciados_atalhos
                 cBoxAmbiente.Items.Add("P11");
             }
 
-            cBoxAmbiente.Items.Add("SPLASH");
+            if (lSplash)
+            {
+                cBoxAmbiente.Items.Add("SPLASH");
+            }
             cBoxAmbiente.SelectedIndex = 0;
         }
 
